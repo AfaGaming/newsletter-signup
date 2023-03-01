@@ -1,4 +1,4 @@
 # newsletter-signup
-This is a website to sign up for my newsletter.
+This is a website to sign up for my newsletter. While making this, I learnt about APIs.
 
-You can view the website here: https://sore-pear-cormorant-sock.cyclic.app/
+You may view the website here: https://sore-pear-cormorant-sock.cyclic.app/
